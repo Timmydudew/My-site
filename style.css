@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(bg.jpg) no-repeat;
+  background: url(20230122_114905.jpg) no-repeat;
   background-size: cover;
 }
 .box{
@@ -49,10 +49,6 @@ ul{
 }
 .box li a:hover{
   color: #b9b9b9;
-}
-body{
-  margin: 0;
-  padding: 0;
 }
 .container{
   text-align: center;
